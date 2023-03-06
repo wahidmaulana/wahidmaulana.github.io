@@ -2,6 +2,10 @@ section {
   padding-top: 5rem;
 }
 
+.navbar {
+  background-color: #5b8e7d;
+}
+
 .jumbotron {
   padding-top: 2rem;
   background-color: #f4e285;
