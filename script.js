@@ -3,7 +3,7 @@ $(".nav-link").on("click", function (e) {
 
   let sectionPage = $(hrefPage);
 
-  $("html").animate(
+  $("body").animate(
     {
       scrollTop: sectionPage.offset().top,
     },

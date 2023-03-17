@@ -2,6 +2,10 @@ section {
   padding-top: 5rem;
 }
 
+.col-md-4 {
+  text-align: justify;
+}
+
 .navbar {
   background-color: #5b8e7d;
 }
