@@ -12,3 +12,12 @@ $(".nav-link").on("click", function (e) {
 
   e.preventDefault();
 });
+
+// typed js
+var typed = new Typed(".heading", {
+  strings: ["I'm a <b>nice guy</b> "],
+  typeSpeed: 100,
+  backSpeed: 150,
+  startDelay: 1000,
+  loop: true,
+});
